@@ -21,4 +21,3 @@ for i in range(targets_num):
     data = open("rand.txt","a")
     data.write(str(A3)+" "+"#"+str(A0)+"\n")
     data.close()
-   

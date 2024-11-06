@@ -64,11 +64,3 @@ while True:
             data.close()
             file.close()
             break
-        
-        
-
-   
-
-    
-
-    

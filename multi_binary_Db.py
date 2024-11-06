@@ -42,10 +42,3 @@ with open(target__multi_public_keys, 'r') as f:
         binary_file = open('multi-data-base.bin', 'ab')
         my_str.tofile(binary_file)
         binary_file.close()
-
-
-        
-        
-
-            
-
